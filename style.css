@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(139, 245, 139);
+    padding: 70px;
+    border: 10px solid rgb(19, 19, 9);
+    
+}
+h3{
+    display: flex;
+    text-align: justify;
+    text-align: center;
+}
+button{
+    padding: 5px;
+    width: 200px;
+    background-color: green;
+    text-decoration: solid;
+    color: white; 
+}
